@@ -1,0 +1,12 @@
+{
+  "appId": "com.actionsheetoptions.app",
+  "appName": "ActionSheetOptions",
+  "bundledWebRuntime": true,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

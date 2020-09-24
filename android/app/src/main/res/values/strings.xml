@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ActionSheetOptions</string>
+    <string name="title_activity_main">ActionSheetOptions</string>
+    <string name="package_name">com.actionsheetoptions.app</string>
+    <string name="custom_url_scheme">com.actionsheetoptions.app</string>
+</resources>
